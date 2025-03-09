@@ -1,14 +1,16 @@
 <h2 align="left">Hi 👋! My name is Rakha A.M and I'm a Programmer, from Indonesia</h2>
+🔹 Passionate Programmer | Tech Enthusiast | Problem Solver 🔹<br>💻 Experienced in Kotlin, Flutter, and Firebase<br>🚀 Building innovative and scalable applications<br>🔍 Always learning and exploring new technologies<br>📌 "Code is like humor—if you have to explain it, it’s bad."
 
+# 💻 RakhaAMCoder:
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RakhaAMCoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/722fb07f13764fb24e8b3739d20c2c9c/ff7b7fd2c7453fa1-ff/s1280x1920/03f3388017974120a109da5a6c1df75b57c6dcf5.gif"  />
+<img align="right" height="180" src="https://camo.githubusercontent.com/ce6123190dda86ac492acf158447b90d6d1264b57fde1497ef10436a7e57e834/68747470733a2f2f6669766572722d7265732e636c6f7564696e6172792e636f6d2f696d616765732f745f6d61696e312c715f6175746f2c665f6175746f2c715f6175746f2c665f6175746f2f6174746163686d656e74732f64656c69766572792f61737365742f32386634343133623237653264353134326362326366343132353736623562652d313636373030323839362f7375706572706978656c657273616e696d6174696f6e2f6372656174652d612d637573746f6d2d706978656c2d6172742d77616c6c70617065722d6261636b67726f756e642e676966"  />
 
 ###
 
@@ -89,11 +91,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RakhaAMCoder/RakhaAMCoder/output/snake.svg" alt="Snake animation" />
-
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
